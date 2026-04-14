@@ -6,10 +6,4 @@ cd ...
 
 ```
 
-```
-pyenv local 3.12.1
-```
-
-```
-pip install pipx
-```
+https://aula-docker-mvnp.onrender.com/
